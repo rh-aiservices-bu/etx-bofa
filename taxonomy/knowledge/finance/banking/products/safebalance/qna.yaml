@@ -25,7 +25,7 @@ seed_examples:
       - question: |
           What is the opening deposit amount for the Advantage SafeBalance Banking and SafeBalance accounts?
         answer: |
-          The opening deposit amount is $25
+          The opening deposit amount for the Advantage SafeBalance Banking and SafeBalance accounts is $25
       - question: |
           Is there a monthly maintenance fee for the Advantage SafeBalance Banking and SafeBalance accounts?
         answer: |
@@ -99,6 +99,6 @@ document_outline: |
   Details of Bank of America Advantage SafeBalance Banking and SafeBalance for Family Banking 
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
+  commit: 97a295eeaae0e275b981e651671389f68e4bd8e7
   patterns:
     - "/source_docs/safebalance/*.md"
