@@ -67,6 +67,34 @@ seed_examples:
           If my account has a negative balance will I be charges
         answer: |
           If yourAdvantage SafeBalance Banking and SafeBalance for Family Banking account has a negative balance you will not be charged.
+  - context: |
+      ## Additional fees
+
+      | Statement copies             | No fee      | Paper copies available upon request. Printable statements are available in Online Banking.                                                                               |
+      |------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Card replacement             | No fee      | For each ATM or debit card                                                                                                                                               |
+      |                              | $15.00      | For rush delivery                                                                                                                                                        |
+      | Stop payment                 | $30.00      | For each request; WAIVED for requests on debit card or Bill Pay transactions                                                                                             |
+      | Cashier's checks             | $15.00      | For each check                                                                                                                                                           |
+      | Domestic wire transfers      | $15.00      | For each incoming wire transfer 5                                                                                                                                        |
+      |                              | $30.00      | For each outgoing wire transfer                                                                                                                                          |
+      | International wire transfers | $15.00      | For each incoming wire transfer: If received in a foreign currency, it will be converted into U.S. Dollars using the applicable exchange rate determined solely by us. SafeBalance for Family Banking accounts can't receive incoming wire transfers. |
+      |                              | No wire fee | For each outgoing wire transfer sent in foreign currency. Please be advised, exchange rate markups will apply. See below.                                                |
+      |                              | $45.00      | For each outgoing wire transfer sent in U.S. Dollars |
+
+    questions_and_answers:
+      - question: |
+          What are the fees for a replacement card?
+        answer: |
+          There is no fee for a replacement card for Advantage SafeBalance Banking and SafeBalance for Family Banking accounts
+      - question: |
+          What is the fee for an International wire transfer"
+        answer: |
+          The fee for a Advantage SafeBalance Banking and SafeBalance for Family Banking wire transfer is $15
+      - question: |
+          Can SafeBalance for Family Banking accounts receive incoming wire transfers
+        answer: |
+          No SafeBalance for Family Banking accounts cannot receive incoming wire transfers
 document_outline: |
   Details of Bank of America Advantage SafeBalance Banking and SafeBalance for Family Banking 
 document:
