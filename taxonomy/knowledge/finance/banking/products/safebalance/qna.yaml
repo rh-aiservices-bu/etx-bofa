@@ -1,0 +1,59 @@
+version: 3
+domain: Banking and finance
+created_by: Team BofA
+seed_examples:
+  - context: |
+      ## Overview of Rewards Money Market Savings key policies and fees
+
+      ## Your Rewards Money Market Savings Account
+      |     |  |
+      | -------- | ------- |
+      | FDIC Coverage | This account is insured by the Federal Deposit Insurance Corporation (FDIC) and is backed by the U.S. government. The standard insurance amount is $250,000 per depositor, per insured bank, for each account ownership category. Refer to FDIC.gov/edie for more information. |
+
+
+      |     |  |  |
+      | -------- | ------- |------- |
+      | Monthly Maintenance Fee | $12.00 each month | You can avoid the Monthly Maintenance Fee when you meet one of the following balance requirements during each statement period: Maintain a minimum daily balance of $2,500 or more, OR Link your account to your Bank of America Interest Checking ® or Bank of America Advantage ® account (waiver applies to first 4 savings accounts), OR Are enrolled in the Preferred Rewards 1 program (waiver applies to first 4 savings accounts) |
+
+    questions_and_answers:
+      - question: |
+          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+        answer: |
+          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+      - question: |
+          How can you avoid the monthly maintenance fee for the Rewards Money Market Savings Account?
+        answer: |
+          The monthly maintenance fee for the Rewards Money Market Savings Account can be avoided by maintaining a minimum daily balance of $2,500 or more, linking the account to your Bank of America Interest Checking or Bank of America Advantage account, or enrolling in Preferred Rewards 1 program.
+      - question: |
+          Is the Rewards Money Market Savings insured by the Federal Deposit Insurance Corporation (FDIC)?
+        answer: |
+          Yes, the Rewards Money Market Savings insured is insured by the Federal Deposit Insurance Corporation (FDIC)
+  - context: |
+      ## When your deposits are available
+
+      - Cash, direct deposits, wire transfers: On the day we receive them.
+      - Checks: Usually the next business day, if deposited before the financial center or ATM cutoff time.
+      - Mobile Check Deposit: Usually the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
+      - If we place a hold on your deposit, we'll let you know the hold reason and when your funds will be available. This is typically provided at the time of deposit but may also be mailed later. Deposits greater than $5,525 and checks deposited within the first 30 days of account opening may be held longer.
+
+      ## How we post transactions
+
+      The way we post transactions impacts your account balance. If there's not enough available money in your account to cover all of your transactions, the posting order can impact the number of overdraft fees you incur. At the end of each business day, we'll group transactions received that day into categories before posting them. Below are the most common categories, and common transaction types in each, in the order that they generally post to your account. Keep in mind that transactions that are still processing may lower your available balance.
+
+      - Deposits: Added from highest to lowest dollar amount.
+      - Many debit transactions: Subtracted based on the date and time you made them. If our system doesn't receive date and time of the transaction, they are posted and subtracted from highest to lowest dollar amount. These include one-time and recurring debit card transactions, one-time transfers, ATM withdrawals, and checks cashed with our tellers.
+      - Other checks you wrote: Subtracted in check number order, unless our system cannot detect the check number; then, the check transactions are posted and subtracted from highest to lowest dollar amount.
+      - Most other electronic payments and preauthorized transfers: Subtracted from highest to lowest dollar amount. These include scheduled transfers, online bill payments and preauthorized payments that use your account number.
+      - Most fees: Subtracted from highest to lowest dollar amounts.
+    questions_and_answers:
+      - question: |
+          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+        answer: |
+          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+document_outline: |
+  Details of Bank of America customer account types, rules, and benefits
+document:
+  repo: https://github.com/rh-aiservices-bu/etx-bofa.git
+  commit: 2a87131cf078ce0a129bffc3cf83197fdc3b230b
+  patterns:
+    - "/source_docs/safebalance/*.md"
