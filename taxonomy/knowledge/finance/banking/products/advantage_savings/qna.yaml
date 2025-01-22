@@ -1,6 +1,6 @@
 version: 3
 domain: Banking and Finance
-created_by: AI Assistant
+created_by: Team BofA
 seed_examples:
   - context: |
       ## Monthly Maintenance Fee: $8.00 each month
