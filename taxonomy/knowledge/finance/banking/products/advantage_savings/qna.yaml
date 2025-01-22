@@ -1,57 +1,77 @@
 version: 3
-domain: Banking and finance
-created_by: Team BofA
+domain: Banking and Finance
+created_by: AI Assistant
 seed_examples:
   - context: |
-      ## Overview of Rewards Money Market Savings key policies and fees
+      ## Monthly Maintenance Fee: $8.00 each month
 
-      ## Your Rewards Money Market Savings Account
-      |     |  |
-      | -------- | ------- |
-      | FDIC Coverage | This account is insured by the Federal Deposit Insurance Corporation (FDIC) and is backed by the U.S. government. The standard insurance amount is $250,000 per depositor, per insured bank, for each account ownership category. Refer to FDIC.gov/edie for more information. |
+      (We'll waive this fee for the first 6 months.)
 
+      You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle:
 
-      |     |  |  |
-      | -------- | ------- |------- |
-      | Monthly Maintenance Fee | $12.00 each month | You can avoid the Monthly Maintenance Fee when you meet one of the following balance requirements during each statement period: Maintain a minimum daily balance of $2,500 or more, OR Link your account to your Bank of America Interest Checking ® or Bank of America Advantage ® account (waiver applies to first 4 savings accounts), OR Are enrolled in the Preferred Rewards 1 program (waiver applies to first 4 savings accounts) |
-
+      - Maintain a minimum daily balance of $500 or more in your account, OR
+      - Ask us to link your account to your Bank of America Advantage Relationship Banking ®, Bank of America Advantage ® with Tiered Interest Checking or Bank of America Advantage ® Regular Checking account (first 4 savings accounts), OR
+      - An owner of this account is under the age of 25 (fiduciary accounts don't qualify), OR
+      - Be a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards, or visit your local financial center.
     questions_and_answers:
       - question: |
-          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+          What is the monthly maintenance fee for the Bank of America Advantage Savings account?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          The monthly maintenance fee for the Bank of America Advantage Savings account is $8.00.
       - question: |
-          How can you avoid the monthly maintenance fee for the Rewards Money Market Savings Account?
+          How can the monthly maintenance fee for the Bank of America Advantage Savings account be waived?
         answer: |
-          The monthly maintenance fee for the Rewards Money Market Savings Account can be avoided by maintaining a minimum daily balance of $2,500 or more, linking the account to your Bank of America Interest Checking or Bank of America Advantage account, or enrolling in Preferred Rewards 1 program.
+          The monthly maintenance fee can be waived by maintaining a minimum daily balance of $500, linking your account to a Bank of America Advantage Relationship Banking, Bank of America Advantage with Tiered Interest Checking, or Bank of America Advantage Regular Checking account, being under the age of 25, or being a member of the Preferred Rewards program.
       - question: |
-          Is the Rewards Money Market Savings insured by the Federal Deposit Insurance Corporation (FDIC)?
+          Is the monthly maintenance fee waived for the first 6 months?
         answer: |
-          Yes, the Rewards Money Market Savings insured is insured by the Federal Deposit Insurance Corporation (FDIC)
+          Yes, the monthly maintenance fee is waived for the first 6 months.
   - context: |
-      ## When your deposits are available
+      ## Interest rate policy
 
-      - Cash, direct deposits, wire transfers: On the day we receive them.
-      - Checks: Usually the next business day, if deposited before the financial center or ATM cutoff time.
-      - Mobile Check Deposit: Usually the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
-      - If we place a hold on your deposit, we'll let you know the hold reason and when your funds will be available. This is typically provided at the time of deposit but may also be mailed later. Deposits greater than $5,525 and checks deposited within the first 30 days of account opening may be held longer.
+      Interest rate and interest calculation: Your account has a variable interest rate, which means the interest rate may change. Interest rates for your account are based on balance tiers, are set at our discretion and may change at any time without notice.
 
-      ## How we post transactions
+      To calculate interest, we apply a daily periodic rate to the collected balance in your account each day. The daily rate that applies will depend on which balance tier your end-of-day balance falls in. We compound and pay any interest earned monthly. Interest is only paid in whole cents and we use standard rounding rules to calculate the amount. This means that an amount less than half of one cent is rounded down to zero, and an amount of half of one cent or more is rounded up to the next whole cent.
 
-      The way we post transactions impacts your account balance. If there's not enough available money in your account to cover all of your transactions, the posting order can impact the number of overdraft fees you incur. At the end of each business day, we'll group transactions received that day into categories before posting them. Below are the most common categories, and common transaction types in each, in the order that they generally post to your account. Keep in mind that transactions that are still processing may lower your available balance.
+      Extra interest: Extra interest is earned automatically when an account owner is enrolled in the Preferred Rewards program. The interest rate will increase by at least 5%, 10% or 20% over the standard rate, and is based on the Preferred Rewards tier in which you're enrolled. We may decide to pay a higher rate.
 
-      - Deposits: Added from highest to lowest dollar amount.
-      - Many debit transactions: Subtracted based on the date and time you made them. If our system doesn't receive date and time of the transaction, they are posted and subtracted from highest to lowest dollar amount. These include one-time and recurring debit card transactions, one-time transfers, ATM withdrawals, and checks cashed with our tellers.
-      - Other checks you wrote: Subtracted in check number order, unless our system cannot detect the check number; then, the check transactions are posted and subtracted from highest to lowest dollar amount.
-      - Most other electronic payments and preauthorized transfers: Subtracted from highest to lowest dollar amount. These include scheduled transfers, online bill payments and preauthorized payments that use your account number.
-      - Most fees: Subtracted from highest to lowest dollar amounts.
+      Where can I find information about current interest rates?: You can find current rate information by checking bankofamerica.com, calling the number on your account statement or visiting a financial center.
     questions_and_answers:
       - question: |
-          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+          How is interest calculated on the Bank of America Advantage Savings account?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          Interest is calculated by applying a daily periodic rate to the collected balance each day. The daily rate depends on the balance tier. Interest is compounded and paid monthly.
+      - question: |
+          What is extra interest?
+        answer: |
+          Extra interest is earned automatically when an account owner is enrolled in the Preferred Rewards program. The interest rate will increase by at least 5%, 10% or 20% over the standard rate, based on the Preferred Rewards tier.
+      - question: |
+          Where can I find current interest rate information?
+        answer: |
+          Current interest rate information can be found on bankofamerica.com, by calling the number on your account statement, or by visiting a financial center.
+  - context: |
+      ## Overdraft policy
+
+      We don't charge overdraft fees on this account. To help you avoid overdrawing your account, transactions will be declined and returned unpaid when you don't have enough money in your account.
+
+      If this happens, you won't be charged a bank overdraft fee, but the merchant or third party could charge you a fee. For example, you may be charged a late fee if the payment isn't received on time.
+
+      There may still be times when your account could have a negative balance, but we won't charge an overdraft fee.
+    questions_and_answers:
+      - question: |
+          Does the Bank of America Advantage Savings account charge overdraft fees?
+        answer: |
+          No, the Bank of America Advantage Savings account does not charge overdraft fees.
+      - question: |
+          What happens if I don't have enough money in my account to cover a transaction?
+        answer: |
+          If you don't have enough money in your account, the transaction will be declined and returned unpaid.
+      - question: |
+          Can I be charged a fee by a merchant or third party if my transaction is declined due to insufficient funds?
+        answer: |
+          Yes, a merchant or third party could charge you a fee, such as a late fee, if your payment is not received on time due to insufficient funds.
 document_outline: |
-  Details of Bank of America customer account types, rules, and benefits
+  Details of Bank of America Advantage Savings account policies and fees
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: 2a87131cf078ce0a129bffc3cf83197fdc3b230b
