@@ -1,66 +1,11 @@
 version: 3
 domain: Banking and Finance
 created_by: Team BofA
-seed_examples:
-  - context: |
-      ## Remote Deposit Same Day Ledger Credit Cut-off Times
+seed_examples: []
 
-      | U.S. Regions                  | Cut-off Times  |
-      |-------------------------------|---------------|
-      | U.S. Eastern Time Zone        | 10:00 PM EST  |
-      | U.S. Central Time Zone        | 10:00 PM CT   |
-      | U.S. Mountain Time Zone       | 9:00 PM MT    |
-      | U.S. Pacific Time Zone        | 9:00 PM PT    |
-
-      | Canada Regions                | Cut-off Times  |
-      |-------------------------------|---------------|
-      | Canadian Atlantic             | 4:30 PM AT    |
-      | Canadian Central              | 2:30 PM CT    |
-      | Canadian Central (Saskatchewan)| 1:30 PM CT   |
-      | Canadian Eastern                                                         | 3:30 PM ET   |
-      | Canadian Mountain                                                        | 1:30 PM MT   |
-      | Canadian Newfoundland                                                    | 5:00 PM NT   |
-      | Canadian Pacific                                                         | 12:30 PM PT  |
-      | Outside of North America. (International) based on first 4 digits of WBS account number | 12:30 PM PT  |
-      | # 1901 (Miami)                                                           | 10:00 PM ET  |
-      | # 6550 (New York)                                                        | 10:00 PM EST |
-      | # 6290 (California)                                                      | 9:00 PM PT   |
-    questions_and_answers:
-      - question: |
-          What is the Remote Deposit Same Day Ledger Credit Cut-off Time for the U.S. Eastern Time Zone?
-        answer: |
-          The Remote Deposit Same Day Ledger Credit Cut-off Time for the U.S. Eastern Time Zone is 10:00 PM EST.
-      - question: |
-          What is the Remote Deposit Same Day Ledger Credit Cut-off Time for the Canadian Pacific Region?
-        answer: |
-          The Remote Deposit Same Day Ledger Credit Cut-off Time for the Canadian Pacific Region is 12:30 PM PT.
-      - question: |
-          What determines the cut-off time for locations outside of North America?
-        answer: |
-          For locations outside of North America, the cut-off time is determined by the first 4 digits of the WBS account number.
-  - context: |
-      ## Storage and Destruction
-
-      It is recommended that clients safeguard original items for 14 days using reasonable commercial standards for storage and in accordance with user documentation or local country restrictions, (if applicable). Reasonable standards include, but are not limited to storing the items in a secure location with limited access. Items should be destroyed using a cross cut shredder after 14 days or when all reasonable attempts to collect on the item have been made. The recommended timeframe for storage is subject to change without notice and failure to comply with safeguard and destruction measures that result in loss will be fully born by the client.
-
-      You agree to cooperate with us fully to facilitate our adherence to guidance provided by the Federal Financial Institutions Examination Council, including guidance concerning risk management of remote deposit capture. For this purpose, you agree that we may mandate specific internal controls at your locations audit your operations and/or request additional information. If a scanner is sent to your office in the U.S and/or Canada., it may not be shipped outside of the U.S. and/or Canada without express written approval by Bank of America.
-    questions_and_answers:
-      - question: |
-          How long is it recommended that clients safeguard original items after deposit?
-        answer: |
-          It is recommended that clients safeguard original items for 14 days after deposit.
-      - question: |
-          What are considered reasonable standards for storage of deposited items?
-        answer: |
-          Reasonable standards for storage include storing the items in a secure location with limited access.
-      - question: |
-          How should items be destroyed after the recommended storage period?
-        answer: |
-          Items should be destroyed using a cross cut shredder after the recommended storage period.
 document_outline: |
-  Details of Bank of America CashPro Remote Deposit application administrator guide, including user roles, functions, and administrative tasks.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
   patterns:
-    - "source_docs/enablement/*.md"
+    - "source_docs/core_checking/*.md"
