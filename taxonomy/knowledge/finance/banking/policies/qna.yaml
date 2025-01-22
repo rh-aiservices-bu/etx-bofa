@@ -13,6 +13,6 @@ document_outline: |
    Definition of skills to understand, analyze and address customer needs through a variety of situations and scenarios
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: 2a87131cf078ce0a129bffc3cf83197fdc3b230b
+  commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
   patterns:
     - "/source_docs/policies/*.md"
