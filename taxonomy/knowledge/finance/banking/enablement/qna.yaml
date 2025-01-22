@@ -15,4 +15,4 @@ document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: 2a87131cf078ce0a129bffc3cf83197fdc3b230b
   patterns:
-    - "*.md"
+    - "/source_docs/enablement/*.md"
