@@ -6,45 +6,29 @@ Sort\_Audit: CC:00-53-5664NSB
 
 ## Account information
 
-## Opening Deposit
+|     |  |
+| -------- | ------- |
+| Opening Deposit   | $25 or more   |
+| Monthly Maintenance Fee | $4.95 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR An account owner, or child on a Family Banking account, is under the age of 25 (fiduciary accounts don't qualify), OR An owner of the account is a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards.    |
 
-Monthly Maintenance
-
-Fee
-
-$25 or more
-
-$4.95 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle:
-
-- · Maintain a minimum daily balance of $500 or more in your account, OR
-- · An account owner, or child on a Family Banking account, is under the age of 25 (fiduciary accounts don't qualify), OR
-- · An owner of the account is a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards.
 
 ## ATM fees
 
-Bank of America ATMs
+|  |  |  |
+| -------- | ------- | ------- |
+| Bank of America ATMs  | No ATM fee | For deposits, withdrawals, transfers or balance inquiries |
+| Non-Bank of America ATMs  |$2.50 | In the U.S., plus any fee charged by the ATM's operator |
+| Non-Bank of America ATMs  | $5.00 | Outside the U.S., plus any fee charged by the ATM's operator |
 
-No ATM fee
+## Ways to make payments
 
-For deposits, withdrawals, transfers or balance inquiries
-
-Non-Bank of America ATMs
-
-$2.50
-
-In the U.S., plus any fee charged by the ATM's operator
-
-$5.00
-
-Outside the U.S., plus any fee charged by the ATM's operator
-
-## Ways to make payments 1
+Some payment options are unavailable for the owner and child of a SafeBalance ® for Family Banking account.
 
 Pay individuals and businesses using:
 
 - · Your Debit Card: Make purchases and payments at millions of locations.
-- · Online and Mobile Bill Pay: Pay your bills through Bank of America's Online Banking or Mobile Banking app. 2
-- · Online or Mobile Banking transfers: Securely send money to friends, family or coworkers. 3
+- · Online and Mobile Bill Pay: Pay your bills through Bank of America's Online Banking or Mobile Banking app. Mobile Banking requires that you download the Mobile Banking app and is only available for select mobile devices. Message and data rates may apply.
+- · Online or Mobile Banking transfers: Securely send money to friends, family or coworkers.  Fees apply to wires and certain transfers. See the Online Banking Service Agreement at bankofamerica.com/serviceagreement for details.
 
 NOTE: You can't write personal checks on this account. Any check you write will be returned unpaid, even if you have enough money in your account.
 
@@ -63,7 +47,7 @@ While this account prevents you from overdrawing in most cases, there may still 
 
 ## When your deposits are available
 
-- · Cash, direct deposits and wire transfers: On the day we receive them. 4
+- · Cash, direct deposits and wire transfers: On the day we receive them. Direct deposit and wire transfers aren't available for SafeBalance ® for Family Banking accounts.
 - · Checks you deposit: Usually the next business day, if deposited before the financial center or ATM cutoff time.
 - · Mobile Check Deposits: Usually the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
 - · If we place a hold on your deposit, we'll let you know the hold reason and when funds will be available for you to use. This is typically provided at the time of deposit but may also be mailed later. Deposits greater than $5,525 and checks deposited within the first 30 days of account opening may be held longer.
@@ -94,34 +78,30 @@ Reminder: Paper checks will not work with this account.
 | Cashier's checks             | $15.00      | For each check                                                                                                                                                           |
 | Domestic wire transfers      | $15.00      | For each incoming wire transfer 5                                                                                                                                        |
 |                              | $30.00      | For each outgoing wire transfer                                                                                                                                          |
-| International wire transfers | $15.00      | For each incoming wire transfer: If received in a foreign currency, it will be converted into U.S. Dollars using the applicable exchange rate determined solely by us. 5 |
+| International wire transfers | $15.00      | For each incoming wire transfer: If received in a foreign currency, it will be converted into U.S. Dollars using the applicable exchange rate determined solely by us. SafeBalance ® for Family Banking accounts can't receive incoming wire transfers. |
 |                              | No wire fee | For each outgoing wire transfer sent in foreign currency. Please be advised, exchange rate markups will apply. See below.                                                |
+|                              | $45.00      | For each outgoing wire transfer sent in U.S. Dollars |
 
-$45.00
 
-For each outgoing wire transfer sent in U.S. Dollars
+
+
 
 For international wire transfers, other fees may also apply, including those charged by recipient's financial institution, foreign taxes, and other fees that are part of the wire transfer process. We profit from markups associated with the currency conversion included in our exchange rate (determined solely by us). Before sending in foreign currency, you should consider factors that impact the total cost or the amount available after transfer.
 
-Non-Bank of America
 
-Teller Withdrawal
+|     |  |
+| -------- | ------- |
+| Non-Bank of America Teller Withdrawal  | Per transaction, greater of $5.00 OR 3% of the amount (maximum $10.00) when you use your ATM or debit card, or card number, to make a withdrawal, transfer or payment at another bank and it is processed as a cash disbursement.   |
 
-Per transaction, greater of $5.00 OR 3% of the amount (maximum $10.00) when you use your ATM or debit card, or card number, to make a withdrawal, transfer or payment at another bank and it is processed as a cash disbursement.
+
 
 ## Get the most out of your account
 
 <!-- image -->
 
-Review all the features and benefits of your new account at
+Review all the features and benefits of your new account at bankofamerica.com/quickstart
 
-bankofamerica.com/quickstart
-
-For questions, schedule an appointment
-
-to visit a financial center at
-
-bankofamerica.com/appointments
+For questions, schedule an appointment to visit a financial center at bankofamerica.com/appointments
 
 Call us at 800.432.1000
 
@@ -130,9 +110,3 @@ Call us at 800.432.1000
 <!-- image -->
 
 Please see the Personal Schedule of Fees and Deposit Agreement and Disclosures for your account terms.
-
-- 1. Some payment options are unavailable for the owner and child of a SafeBalance ® for Family Banking account.
-- 2. Mobile Banking requires that you download the Mobile Banking app and is only available for select mobile devices. Message and data rates may apply.
-- 3. Fees apply to wires and certain transfers. See the Online Banking Service Agreement at bankofamerica.com/serviceagreement for details.
-- 4. Direct deposit and wire transfers aren't available for SafeBalance ® for Family Banking accounts.
-- 5. SafeBalance ® for Family Banking accounts can't receive incoming wire transfers.
