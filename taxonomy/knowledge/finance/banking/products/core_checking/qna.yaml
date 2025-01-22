@@ -61,6 +61,6 @@ document_outline: |
   Details of Bank of America CashPro Remote Deposit application administrator guide, including user roles, functions, and administrative tasks.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: 2a87131cf078ce0a129bffc3cf83197fdc3b230b
+  commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
   patterns:
     - "source_docs/enablement/*.md"
