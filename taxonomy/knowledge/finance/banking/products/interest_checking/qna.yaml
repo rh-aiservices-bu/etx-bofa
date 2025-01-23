@@ -22,17 +22,17 @@ seed_examples:
 
     questions_and_answers:
       - question: |
-          What is the minimun ammount when opening an account ?
+          What is the minimum amount when opening an account?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          The minimum ammount to open an account is $100 or more.
       - question: |
-          How can you avoid the monthly maintenance fee for the Rewards Money Market Savings Account?
+          The account earns any interest ?
         answer: |
-          The monthly maintenance fee for the Rewards Money Market Savings Account can be avoided by maintaining a minimum daily balance of $2,500 or more, linking the account to your Bank of America Interest Checking or Bank of America Advantage account, or enrolling in Preferred Rewards 1 program.
+          Yes, the this account earns interest at a variable rate. You can find current rate information at bankofamerica.com, by calling the number on your account statement or visiting a financial center.
       - question: |
-          Is the Rewards Money Market Savings insured by the Federal Deposit Insurance Corporation (FDIC)?
+          Is there an account monthly maintenance fee ?
         answer: |
-          Yes, the Rewards Money Market Savings insured is insured by the Federal Deposit Insurance Corporation (FDIC)
+          Yes, there is an account monthly maintenance fee of $25.00. But you can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $20,000 or more in your account OR Be a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards.
   - context: |
       ## Overdraft policy
 
@@ -89,9 +89,17 @@ seed_examples:
         | Non-Bank of America Teller Withdrawal                                                                                                                                                                                                                                                                                                                                                                                                                           | Per transaction, greater of  $5.00  OR  3%  of the amount (maximum $10.00) when you use your ATM or debit card, or card number, to make a withdrawal, transfer or payment at another bank and it is processed as a cash disbursement.                                                                                                                                                                                                                           | Per transaction, greater of  $5.00  OR  3%  of the amount (maximum $10.00) when you use your ATM or debit card, or card number, to make a withdrawal, transfer or payment at another bank and it is processed as a cash disbursement.                                                                                                                                                                                                                           |
     questions_and_answers:
       - question: |
-          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+          Considering overdraft policies, is there any policy to avoid fees ?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          To help you avoid fees, we won't authorize ATM withdrawals or everyday debit card purchases when you don't have enough money in your account at the time of the transaction.
+      - question: |
+          Is there any fee for Statement copies?
+        answer: |
+          No, there is no fee for statement copies. Paper copies available upon request. Printable statements are available in Online Banking.
+      - question: |
+          Is there any fee related to Cashier's checks ?
+        answer: |
+          Yes, there is a fee of $15.00 for each check .
   - context: |
       ## When your deposits are available
 
@@ -111,9 +119,18 @@ seed_examples:
       - Most fees: Subtracted from highest to lowest dollar amounts.
     questions_and_answers:
       - question: |
-          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+          When Cash, direct deposits, wire transfers deposits will be available ?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          Cash, direct deposits, wire transfers, will be available on the day we receive them.
+        - question: |
+          When Checks deposits will be available ?
+        answer: |
+          Checks will be Usually available in the next business day, if deposited before the financial center or ATM cutoff time.
+        - question: |
+          When Mobile Check Deposit  will be available ?
+        answer: |
+          Usually Mobile Check Deposit will be available in the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
+
   - context: |
       ## Get the most out of your account
 
@@ -136,11 +153,11 @@ seed_examples:
       Banking products are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation.
     questions_and_answers:
       - question: |
-          What is the monthly maintenance fee of the Rewards Money Market Savings Account?
+          Is there a specific number that I can call for help?
         answer: |
-          The monthly maintenance fee of the Rewardw Money Market Savings Account is $12.00 each month
+          Yes, you can call us any time at 800.432.1000.
 document_outline: |
-  Details of Bank of America customer account types, rules, and benefits
+  Details of Bank of America customer Interest Checking.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
