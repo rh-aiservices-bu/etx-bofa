@@ -106,18 +106,17 @@ seed_examples:
         answer: Business Support Services roles at a bank can include human resources, research and development, program management, strategy and innovation, marketing, and corporate social responsibility.
 
   - context: |
-
       ## Bank of America benefits
 
       Bank of America offers a competitive benefits package to its employees, including tuition assistance and parental leave.
 
-      ## Supporting employees’ financial, physical and emotional wellness
+      ## Supporting employees' financial, physical and emotional wellness
 
       Comprehensive benefits and programs to support overall employee wellness and help them thrive.
 
       ### Financial Wellness
 
-      Our company’s purpose is to help make financial lives better through the power of every connection. So, it’s especially important we support the financial wellness of our employees.
+      Our company's purpose is to help make financial lives better through the power of every connection. So, it's especially important we support the financial wellness of our employees.
 
       - Tuition Assistance
       - Automatic enrollment in the 401k Plan
@@ -140,7 +139,7 @@ seed_examples:
 
       ### Emotional Wellness
 
-      We’ve providing additional resources to help employees manage stress, build resiliency and pursue mindfulness, including the Life Event Services team.
+      We've providing additional resources to help employees manage stress, build resiliency and pursue mindfulness, including the Life Event Services team.
 
       - Employee Assistance Program
       - Life Event Services
@@ -163,6 +162,6 @@ document_outline: |
   Introduction to the financial services industry and the business of banking
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
+  commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
   patterns:
     - "/source_docs/enablement/*.md"

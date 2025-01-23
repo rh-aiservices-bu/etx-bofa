@@ -164,6 +164,6 @@ document_outline: |
   Details of Bank of America Advantage Banking account, rules, and benefits
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: 3bae2f88082893d8502a6bf43b91f24f3deeb3a6
+  commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
   patterns:
     - "/source_docs/advantage_banking/*.md"

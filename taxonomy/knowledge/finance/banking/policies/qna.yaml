@@ -76,6 +76,6 @@ document_outline: |
   Resource guide for Bank of America employee policies.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: e62fc4a
+  commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
   patterns:
     - "/source_docs/policies/*.md"
