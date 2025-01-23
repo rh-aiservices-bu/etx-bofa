@@ -52,9 +52,9 @@ seed_examples:
           Use unempathetic language e.g. "At least you still have ..."
   - context: |
       This document is the Online Banking Service Agreement that is reviewed and signed by customers when they open a new account with Bank of America.
-      Under the terms of this Agreement, customers may use the Services to obtain financial products and services, access and view account information, 
+      Under the terms of this Agreement, customers may use the Services to obtain financial products and services, access and view account information,
       and, for certain accounts, move money electronically and perform authorized transactions, for eligible U.S.-based Bank of America consumer and
-      small business accounts and affiliate accounts linked to the Service, such as those at Merrill Lynch, Pierce, Fenner & Smith Incorporated ("Merrill"). 
+      small business accounts and affiliate accounts linked to the Service, such as those at Merrill Lynch, Pierce, Fenner & Smith Incorporated ("Merrill").
       When users open any type of account with Bank of America, they have to enter into a Service Agreement. This Agreement governs the user's use of any
       online or mobile banking services maintained by Bank of America and accessible through bankofamerica.com using
       a personal computer or a mobile device, including a smartphone, tablet, or any other eligible handheld or wearable communication device (the “Service(s)”).

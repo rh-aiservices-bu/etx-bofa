@@ -12,14 +12,14 @@ seed_examples:
       - Flexible parental controls you can manage as your child grows
       - View your child's transactions and transfer money right from where you manage your existing accounts
 
-      Monthly maintenance fee:  
+      Monthly maintenance fee:
       $4.95 or $0
 
       $0 for each statement cycle that:
       - Your child is under age 25¹ or
       - You maintain a minimum daily balance of $500 or more in your account or
       - An account owner is a member of the Preferred Rewards program²
-    
+
     questions_and_answers:
       - question: |
           Is the SafeBalance Banking account available for children under 6 years old?
@@ -28,12 +28,12 @@ seed_examples:
       - question: |
           What is the minimum balance required to avoid the monthly maintenance fee for the SafeBalance Banking account?
         answer: |
-          The minimum balance required to avoid the monthly maintenance fee for the SafeBalance Banking account is $500 or more.         
+          The minimum balance required to avoid the monthly maintenance fee for the SafeBalance Banking account is $500 or more.
       - question: |
           What is the monthly maintenance fee for the SafeBalance Banking account?
         answer: |
           The monthly maintenance fee for the SafeBalance Banking account is $4.95 or $0.
-  
+
   - context: |
       ## Advantage SafeBalance Banking
 
@@ -44,7 +44,7 @@ seed_examples:
       - A great start for students and young adults
       - Helps keep you from spending more than you have³ and no overdraft fees
 
-      Monthly maintenance fee:  
+      Monthly maintenance fee:
       $4.95 or $0
 
       $0 for each statement cycle that:**
@@ -57,11 +57,11 @@ seed_examples:
         answer: |
           The target audience for the SafeBalance Simple Banking account is students and young adults.
 
-           - question: |
+      - question: |
           What is the minimum balance for the SafeBalance Simple Banking account?
         answer: |
           The minimum balance for the SafeBalance Simple Banking account is $500 or more.
-           - question: |
+      - question: |
           What does SafeBalance Simple banking solve for you ?
         answer: |
           It enables digital banking in the palm of your hand, helps keep you from spending more than you have, and has no overdraft fees.
@@ -75,7 +75,7 @@ seed_examples:
       - Multiple ways to waive the monthly maintenance fee — including direct deposit
       - Offers Balance Connect® for overdraft protection⁴
 
-      Monthly maintenance fee:  
+      Monthly maintenance fee:
       $12 or $0
 
       $0 for each statement cycle that:
@@ -107,7 +107,7 @@ seed_examples:
       - $0 monthly maintenance fee on up to 7 eligible accounts when you link⁵ them to your primary Relationship Banking account
       - No fees on select deposit services⁶
 
-      Monthly maintenance fee: 
+      Monthly maintenance fee:
       $25 or $0
 
       $0 for each statement cycle that:
@@ -129,7 +129,7 @@ seed_examples:
         answer: |
           The ways to avoid the monthly maintenance fee for the Advantage Relationship Banking account are maintaining a minimum daily balance of $20,000 or more in your account or being a member of the Preferred Rewards program.
 
-  - context: | 
+  - context: |
       # Bank of America Advantage Banking Benefits
 
       No matter which Bank of America Advantage Banking account you choose, you'll enjoy these great benefits and features:
