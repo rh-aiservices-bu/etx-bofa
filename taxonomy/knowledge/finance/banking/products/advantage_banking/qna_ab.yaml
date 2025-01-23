@@ -171,4 +171,4 @@ document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: 3bae2f88082893d8502a6bf43b91f24f3deeb3a6
   patterns:
-    - "llama_parse_mds/Advantage\Banking.md"
+    - "llama_parse_mds/Advantage\ Banking.md"
