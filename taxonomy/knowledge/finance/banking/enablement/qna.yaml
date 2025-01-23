@@ -58,39 +58,38 @@ seed_examples:
         answer: |
           Items should be destroyed using a cross cut shredder after the recommended storage period.
   - context: |
+        ## Banking has something for everyone
 
-      ## Banking has something for everyone
+        **Banking is its own ecosystem, and at Bank of America, this is what we offer. Other firms may offer similar opportunities.**
 
-      **Banking is its own ecosystem, and at Bank of America, this is what we offer. Other firms may offer similar opportunities.**
+        ### Banking, Markets & Finance
 
-      ### Banking, Markets & Finance
+        - Client management
+        - Financial advisory
+        - Investment banking
+        - Sales and trading
+        - Accounting
+        - Credit
+        - Wealth management
+        - Client services
 
-      - Client management
-      - Financial advisory
-      - Investment banking
-      - Sales and trading
-      - Accounting
-      - Credit
-      - Wealth management
-      - Client services
+        ### Technology & Operations
 
-      ### Technology & Operations
+        - Data management
+        - Operations
+        - Web design
+        - Cyber security
+        - Software engineering and architecture
+        - Help desk
 
-      - Data management
-      - Operations
-      - Web design
-      - Cyber security
-      - Software engineering and architecture
-      - Help desk
+        ### Business Support Services
 
-      ### Business Support Services
-
-      - Human resources
-      - Research and development
-      - Program management
-      - Strategy and innovation
-      - Marketing
-      - Corporate social responsibility
+        - Human resources
+        - Research and development
+        - Program management
+        - Strategy and innovation
+        - Marketing
+        - Corporate social responsibility
 
     questions_and_answers:
 

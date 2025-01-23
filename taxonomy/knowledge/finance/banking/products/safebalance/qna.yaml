@@ -92,9 +92,9 @@ seed_examples:
         answer: |
           The fee for a Advantage SafeBalance Banking and SafeBalance for Family Banking wire transfer is $15
       - question: |
-          Can SafeBalance for Family Banking accounts receive incoming wire transfers
+          Can SafeBalance for Family Banking accounts receive incoming wire transfers?
         answer: |
-          No SafeBalance for Family Banking accounts cannot receive incoming wire transfers
+          No, SafeBalance for Family Banking accounts cannot receive incoming wire transfers
 document_outline: |
   Details of Bank of America Advantage SafeBalance Banking and SafeBalance for Family Banking 
 document:
