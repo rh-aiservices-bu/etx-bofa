@@ -42,11 +42,11 @@ seed_examples:
           What is a good thing to consider when relating to the customer?
         answer: |
           Use welcoming language.
-        - question: |
+      - question: |
           What is a good way to interact with a frustrated customer?
         answer: |
           Use empathetic language e.g. "From what I hear, you are feeling … Is that right?"
-        - question: |
+      - question: |
           What is a bad way to interact with a frustrated customer?
         answer: |
           Use unempathetic language e.g. "At least you still have ..."
