@@ -41,16 +41,24 @@ seed_examples:
       - question: |
           What is a good thing to consider when relating to the customer?
         answer: |
-          Use welcoming language."
+          Use welcoming language.
+        - question: |
+          What is a good way to interact with a frustrated customer?
+        answer: |
+          Use empathetic language e.g. "From what I hear, you are feeling … Is that right?"
+        - question: |
+          What is a bad way to interact with a frustrated customer?
+        answer: |
+          Use unempathetic language e.g. "At least you still have ..."
   - context: |
-      This document is the Online Banking Service Agreement that is reviewed and signed by customers when they open a new account with Bank of America. 
+      This document is the Online Banking Service Agreement that is reviewed and signed by customers when they open a new account with Bank of America.
       Under the terms of this Agreement, customers may use the Services to obtain financial products and services, access and view account information, 
       and, for certain accounts, move money electronically and perform authorized transactions, for eligible U.S.-based Bank of America consumer and
       small business accounts and affiliate accounts linked to the Service, such as those at Merrill Lynch, Pierce, Fenner & Smith Incorporated ("Merrill"). 
-      When users open any type of account with Bank of America, they have to enter into a Service Agreement. This Agreement governs the user's use of any 
-      online or mobile banking services maintained by Bank of America and accessible through bankofamerica.com using 
-      a personal computer or a mobile device, including a smartphone, tablet, or any other eligible handheld or wearable communication device (the “Service(s)”). 
-      It describes the limits of how much users can transfer between their accounts (both Bank of America and other) and transfer money to others using 
+      When users open any type of account with Bank of America, they have to enter into a Service Agreement. This Agreement governs the user's use of any
+      online or mobile banking services maintained by Bank of America and accessible through bankofamerica.com using
+      a personal computer or a mobile device, including a smartphone, tablet, or any other eligible handheld or wearable communication device (the “Service(s)”).
+      It describes the limits of how much users can transfer between their accounts (both Bank of America and other) and transfer money to others using
       the app, website, Zelle, wire transfers, how to pay bills, fees, and how to resolve alerts and errors.
     questions_and_answers:
       - question: |
