@@ -1,7 +1,41 @@
 version: 3
 domain: Banking and Finance
 created_by: Team BofA
-seed_examples: []
+seed_examples:
+  - context: |
+      ## Account information
+
+      | Fee name                | Fee details        |
+      |-------------------------|--------------------|
+      | Opening Deposit         | $100 or more       |
+      | Monthly Maintenance Fee | $12.00 each month. |
+
+      You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle:
+      - Make at least one qualifying Direct Deposit of $250 or more to your account, OR
+      - Maintain a minimum daily balance of $1,500 or more in your account, OR
+      - Be a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards.
+
+      ## ATM fees
+
+      | ATM Type                 | Fee details  | Usage details                                                |
+      |--------------------------|--------------|--------------------------------------------------------------|
+      | Bank of America ATMs     | No ATM fee   | For deposits, withdrawals, transfers or balance inquiries    |
+      | Non-Bank of America ATMs | $2.50        | In the U.S., plus any fee charged by the ATM's operator      |
+      |                          | $5.00        | Outside the U.S., plus any fee charged by the ATM's operator |
+
+    questions_and_answers:
+      - question: |
+          What are the ATM fees for the core checking account when using Bank of America ATMs?
+        answer: |
+          There are no fees for the core checking account when using Bank of America ATMs
+      - question: |
+          What is the opening deposit amount for the core checking account?
+        answer: |
+          The opening deposit amount for the core checking account is $100
+      - question: |
+          What is one way you avoid fees on a core checking account?
+        answer: |
+          You can avoid monthly fees by maintaining a minimum daily balance of $1,500 or more in your account.
 
 document_outline: |
 document:
