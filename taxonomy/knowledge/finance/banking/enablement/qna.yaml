@@ -153,7 +153,8 @@ seed_examples:
       - question: What are some financial wellness benefits offered by Bank of America?
         answer: Bank of America offers financial wellness benefits such as tuition assistance, automatic enrollment in the 401k Plan, Benefits Education & Planning Center, Financial Wellness Tracker, Better Money Habits, Employee Financial Services, and back-up and adult care services.
       - question: Does Bank of America offer any physical wellness benefits to its employees?
-        answer: Yes, Bank of America offers physical wellness benefits including enhanced benefits for employees and their families, a cancer support benefit, no-cost virtual medical consultation, the Get Active! employee fitness challenge, Whil: mobile fitness classes and coaches, and family planning and menopause support.
+        answer: >
+          Yes, Bank of America offers physical wellness benefits including enhanced benefits for employees and their families, a cancer support benefit, no-cost virtual medical consultation, the Get Active! employee fitness challenge, Whil: mobile fitness classes and coaches, and family planning and menopause support.
       - question: What kind of emotional wellness support does Bank of America provide?
         answer: Bank of America provides emotional wellness support through the Employee Assistance Program, Life Event Services, Thrive Global, parental leave, paid time off, and a sabbatical program.
       - question: Does Bank of America offer tuition assistance?

@@ -88,11 +88,11 @@ seed_examples:
           What are the advanantages of the Advantage Plus Banking account?
         answer: |
           The advantages of the Advantage Plus Banking account include digital banking with a variety of payment options, multiple ways to waive the monthly maintenance fee, and offers Balance Connect® for overdraft protection.
-       - question: |
+      - question: |
           What is the monthly maintenance fee for Advantage Plus Banking?
         answer: |
           The minimum balance for the Advantage Plus Banking account is $1,500 or more.
-        - question: |
+      - question: |
           What does Advantage Plus Banking offer for overdraft protection ?
         answer: |
           It offers Balance Connect® for overdraft protection.
