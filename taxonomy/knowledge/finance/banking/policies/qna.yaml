@@ -1,18 +1,52 @@
 version: 3
-domain: Finance and banking policies
+domain: Banking and finance
 created_by: Team BofA
 seed_examples:
   - context: |
-      Context from docs
+       The Customer Interactions guide serves as a resource to provide learners the skills needed to connect with, understand, analyze and address customer needs through a variety of situations and scenarios. The goal is to exceed our customer's expectations by advocating for customers by providing the best solutions every time without fail, act with empathy, demonstrate willingness to help, and make it easy for customers to do business with Bank of America.
     questions_and_answers:
       - question: |
-          Question text
+          What is taking ownership and demonstrating a willingness to help?
         answer: |
-          answer text
+          Taking ownership is about demonstrating a willingness to help.  Bank of America teams should take ownership of the customer's request and bring other people together as needed to address the question, need or concern. You can start a conversation with 'Hello! How can I help you?' to engage with users, ask discovery questions to understand the customer's needs, example 'What is the issue you are facing?'. Once you know more, try to resolve and provide a solution.
+      - question: |
+          How do you resolve a customer's issue?
+        answer: |
+          If you need more context, ask for specifics and clarify. Ask questions like, 'Are you experiencing an issue with your checking or savings account?' or 'What was the specific purchase?' Once you have the information you need, you can provide a solution and try to resolve the issue. For example, ask 'Do you recall adding a tip onto the bill?' or' 'I can help you with that. Let me check your account details.'
+      - question: |
+          What are some phrases to avoid using when speaking to a customer?
+        answer: |
+          Be respectful and helpful, ask questions, and be courteous. Avoid using filler phrases like 'Hmm' or shutting them down with a 'No' or 'You're wrong' or 'I can't help you with that.' Instead, say 'I'm not sure, but I can find out for you' or 'I'm not able to help with that, but I can connect you with someone who can.', 'Let me bring a colleague on the phone who can further
+assist us.'
+  - context: |
+      Journal prompt: Imagine you are meeting with a customer, and you notice their voice is louder than normal and their expression is angry. What can you do to relate to the customer?
+
+      <!-- image -->
+
+      Possible answer: Use empathetic statements to let the customer know you understand their frustration and let them know you are making it a priority to resolve the issue.
+
+      These are examples of statements that allow us to show empathy across differences when relating to the customer.
+
+      | Less empathetic                    | More empathetic                                                                                                      |
+      |------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+      | Calm down. You're overthinking it. | From what I hear, you are feeling … Is that right?                                                                   |
+      | At least you still have ...        | This is a difficult situation and I think you've shown a lot of  courage and strength in how you're handling things. |
+      | Here's what I would do.            | Thank you for trusting me with this. It means a lot to me.                                                           |
+
+      Here are some things to consider when relating to the customer:
+
+      - Be relational, not transactional.
+      - Use welcoming language.
+      - Communicate with care.
+    questions_and_answers:
+      - question: |
+          What is a good thing to consider when relating to the customer?
+        answer: |
+          Use welcoming language."
 document_outline: |
-   Definition of skills to understand, analyze and address customer needs through a variety of situations and scenarios
+  Resource guide for customer interactions for Bank of America employees.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: c0d2eaf3401d6d0e753b05daba9f26035988abae
+  commit: e62fc4a
   patterns:
     - "/source_docs/policies/*.md"
