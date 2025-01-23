@@ -83,7 +83,7 @@ seed_examples:
       - You have at least one qualifying direct deposit of $250 or more made to your account or
       - An account owner is a member of the Preferred Rewards program²
 
- questions_and_answers:
+    questions_and_answers:
       - question: |
           What are the advanantages of the Advantage Plus Banking account?
         answer: |
@@ -114,48 +114,48 @@ seed_examples:
       - You maintain a minimum daily balance of $20,000 or more in your account or
       - An account owner is a member of the Preferred Rewards program
 
-questions_and_answers:
+    questions_and_answers:
       - question: |
           What are the key features for the Advantage Relationship Banking account?
         answer: |
           The key features for the Advantage Relationship Banking account include earning interest, $0 monthly maintenance fee on up to 7 eligible accounts when you link them to your primary Relationship Banking account, and no fees on select deposit services.
 
- - question: |
+      - question: |
           What is the monthly maintenance fee for the Advantage Relationship Banking account?
         answer: |
            The monthly maintenance fee for the Advantage Relationship Banking account is $25 or $0.
- - question: |
+      - question: |
           What are the ways to avoid the monthly maintenance fee for the Advantage Relationship Banking account?
         answer: |
           The ways to avoid the monthly maintenance fee for the Advantage Relationship Banking account are maintaining a minimum daily balance of $20,000 or more in your account or being a member of the Preferred Rewards program.
 
--context: | 
-    # Bank of America Advantage Banking Benefits
+  - context: | 
+      # Bank of America Advantage Banking Benefits
 
-    No matter which Bank of America Advantage Banking account you choose, you'll enjoy these great benefits and features:
+      No matter which Bank of America Advantage Banking account you choose, you'll enjoy these great benefits and features:
 
-    - Debit card with lock and unlock
-    - Alerts to help you stay on top of your accounts
-    - $0 Liability Guarantee
+      - Debit card with lock and unlock
+      - Alerts to help you stay on top of your accounts
+      - $0 Liability Guarantee
 
-    ## Preferred Rewards Program
+      ## Preferred Rewards Program
 
-    Ask how to get more with the Preferred Rewards program.
+      Ask how to get more with the Preferred Rewards program.
 
-    ### Switching to Bank of America
+      ### Switching to Bank of America
 
-    Have an account at another bank? Learn how to switch your account to Bank of America at bankofamerica.com/easytoswitch
+      Have an account at another bank? Learn how to switch your account to Bank of America at bankofamerica.com/easytoswitch
 
-questions_and_answers:
+    questions_and_answers:
       - question: |
           What are the benefits of Bank of America Advantage Banking despite the account type?
         answer: |
           The key benefits of Bank of America Advantage Banking include a debit card with lock and unlock, alerts to help you stay on top of your accounts, and $0 Liability Guarantee.
- - question: |
+      - question: |
           Where can you learn to switch to Bank of America ?
         answer: |
            The switch to Bank of America can be learned at bankofamerica.com/easytoswitch.
- - question: |
+      - question: |
           Learn how to get in contact with the Preferred Rewards program ?
         answer: |
            Contact us directly to learn more about the Preferred Rewards program.
