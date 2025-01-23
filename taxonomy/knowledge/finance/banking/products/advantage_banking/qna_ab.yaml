@@ -1,0 +1,174 @@
+version: 3
+domain: Banking and finance | Overview of Advantage Banking Account
+created_by: Team BofA
+seed_examples:
+  - context: |
+## Advantage SafeBalance Banking for Family Banking
+
+Parent-owned account
+
+### Features and benefits include:
+- Give your child hands-on experience using a debit card and digital access as young as 6
+- Flexible parental controls you can manage as your child grows
+- View your child's transactions and transfer money right from where you manage your existing accounts
+
+Monthly maintenance fee:  
+$4.95 or $0
+
+$0 for each statement cycle that:
+- Your child is under age 25¹ or
+- You maintain a minimum daily balance of $500 or more in your account or
+- An account owner is a member of the Preferred Rewards program²
+    
+    questions_and_answers:
+      - question: |
+          Is the SafeBalance Banking account available for children under 6 years old?
+        answer: |
+          Yes, the SafeBalance Banking account is available for children as young as 6 years old. But it is a parent-owned account.
+      - question: |
+          What is the minimum balance required to avoid the monthly maintenance fee for the SafeBalance Banking account?
+        answer: |
+          The minimum balance required to avoid the monthly maintenance fee for the SafeBalance Banking account is $500 or more.         
+      - question: |
+          What is the monthly maintenance fee for the SafeBalance Banking account?
+        answer: |
+          The monthly maintenance fee for the SafeBalance Banking account is $4.95 or $0.
+  
+  - context: |
+
+## Advantage SafeBalance Banking
+
+Simple Banking
+
+### Features and benefits include:
+- Digital Banking in the palm of your hand — no paper check writing
+- A great start for students and young adults
+- Helps keep you from spending more than you have³ and no overdraft fees
+
+Monthly maintenance fee:  
+$4.95 or $0
+
+$0 for each statement cycle that:**
+- You maintain a minimum daily balance of $500 or more in your account or
+- An account owner is under age 25¹ or
+- An account owner is a member of the Preferred Rewards program²
+    questions_and_answers:
+      - question: |
+          Who is the target audience for the SafeBalance Simple Banking account?
+        answer: |
+          The target audience for the SafeBalance Simple Banking account is students and young adults.
+
+           - question: |
+          What is the minimum balance for the SafeBalance Simple Banking account?
+        answer: |
+          The minimum balance for the SafeBalance Simple Banking account is $500 or more.
+           - question: |
+          What does SafeBalance Simple banking solve for you ?
+        answer: |
+          It enables digital banking in the palm of your hand, helps keep you from spending more than you have, and has no overdraft fees.
+  - context: |
+
+  ## Advantage Plus Banking
+
+Flexible banking
+
+### Features and benefits include:
+- Digital banking with a variety of payment options
+- Multiple ways to waive the monthly maintenance fee — including direct deposit
+- Offers Balance Connect® for overdraft protection⁴
+
+Monthly maintenance fee:  
+$12 or $0
+
+$0 for each statement cycle that:
+- You maintain a minimum daily balance of $1,500 or more in your account or
+- You have at least one qualifying direct deposit of $250 or more made to your account or
+- An account owner is a member of the Preferred Rewards program²
+
+ questions_and_answers:
+      - question: |
+          What are the advanantages of the Advantage Plus Banking account?
+        answer: |
+          The advantages of the Advantage Plus Banking account include digital banking with a variety of payment options, multiple ways to waive the monthly maintenance fee, and offers Balance Connect® for overdraft protection.
+       - question: |
+          What is the monthly maintenance fee for Advantage Plus Banking?
+        answer: |
+          The minimum balance for the Advantage Plus Banking account is $1,500 or more.
+        - question: |
+          What does Advantage Plus Banking offer for overdraft protection ?
+        answer: |
+          It offers Balance Connect® for overdraft protection.
+
+  - context: |
+
+  ## Advantage Relationship Banking
+
+Comprehensive Banking
+
+### Features and benefits include:
+- Earns interest
+- $0 monthly maintenance fee on up to 7 eligible accounts when you link⁵ them to your primary Relationship Banking account
+- No fees on select deposit services⁶
+
+Monthly maintenance fee: 
+$25 or $0
+
+$0 for each statement cycle that:
+- You maintain a minimum daily balance of $20,000 or more in your account or
+- An account owner is a member of the Preferred Rewards program²
+
+questions_and_answers:
+      - question: |
+          What are the key features for the Advantage Relationship Banking account?
+        answer: |
+          The key features for the Advantage Relationship Banking account include earning interest, $0 monthly maintenance fee on up to 7 eligible accounts when you link them to your primary Relationship Banking account, and no fees on select deposit services.
+
+ - question: |
+          What is the monthly maintenance fee for the Advantage Relationship Banking account?
+        answer: |
+           The monthly maintenance fee for the Advantage Relationship Banking account is $25 or $0.
+ - question: |
+          What are the ways to avoid the monthly maintenance fee for the Advantage Relationship Banking account?
+        answer: |
+          The ways to avoid the monthly maintenance fee for the Advantage Relationship Banking account are maintaining a minimum daily balance of $20,000 or more in your account or being a member of the Preferred Rewards program.
+
+-context: | 
+
+# Bank of America Advantage Banking Benefits
+
+No matter which Bank of America Advantage Banking account you choose, you'll enjoy these great benefits and features:
+
+- Debit card with lock and unlock
+- Alerts to help you stay on top of your accounts
+- $0 Liability Guarantee
+
+## Preferred Rewards Program
+
+Ask how to get more with the Preferred Rewards program.
+
+### Switching to Bank of America
+
+Have an account at another bank? Learn how to switch your account to Bank of America at bankofamerica.com/easytoswitch
+
+questions_and_answers:
+      - question: |
+          What are the benefits of Bank of America Advantage Banking despite the account type?
+        answer: |
+          The key benefits of Bank of America Advantage Banking include a debit card with lock and unlock, alerts to help you stay on top of your accounts, and $0 Liability Guarantee.
+ - question: |
+          Where can you learn to switch to Bank of America ?
+        answer: |
+           The switch to Bank of America can be learned at bankofamerica.com/easytoswitch.
+ - question: |
+          Learn how to get in contact with the Preferred Rewards program ?
+        answer: |
+           Contact us directly to learn more about the Preferred Rewards program.
+
+
+document_outline: |
+  Details of Bank of America customer account types, rules, and benefits
+document:
+  repo: https://github.com/rh-aiservices-bu/etx-bofa.git
+  commit: 3bae2f88082893d8502a6bf43b91f24f3deeb3a6
+  patterns:
+    - "llama_parse_mds/Advantage\ Banking.md"
