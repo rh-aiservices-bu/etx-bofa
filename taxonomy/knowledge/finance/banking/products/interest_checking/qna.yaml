@@ -122,11 +122,11 @@ seed_examples:
           When Cash, direct deposits, wire transfers deposits will be available ?
         answer: |
           Cash, direct deposits, wire transfers, will be available on the day we receive them.
-        - question: |
+      - question: |
           When Checks deposits will be available ?
         answer: |
           Checks will be Usually available in the next business day, if deposited before the financial center or ATM cutoff time.
-        - question: |
+      - question: |
           When Mobile Check Deposit  will be available ?
         answer: |
           Usually Mobile Check Deposit will be available in the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
