@@ -37,7 +37,7 @@ seed_examples:
         answer: |
           You can avoid monthly fees by maintaining a minimum daily balance of $1,500 or more in your account.
 
-document_outline: |
+document_outline: Details of the Bank of America Core Checking account
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
