@@ -166,4 +166,4 @@ document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: 42e33a5739c78d1d464454142d33c03732611124
   patterns:
-    - "/source_docs/advantage_banking/*.md"
+    - "source_docs/advantage_banking/*.md"
