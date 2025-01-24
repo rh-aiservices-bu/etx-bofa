@@ -158,6 +158,23 @@ seed_examples:
         answer: Bank of America provides emotional wellness support through the Employee Assistance Program, Life Event Services, Thrive Global, parental leave, paid time off, and a sabbatical program.
       - question: Does Bank of America offer tuition assistance?
         answer: Yes, Bank of America offers tuition assistance as part of its financial wellness benefits.
+  - context: |
+      # Technology & Operations roles
+
+      | Job title             | Job description                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+      |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Software Engineer     | **Software Engineers** design, develop and implement technology applications, platforms and systems to support customers, clients and bank employees around the world.  **Skills used on the job include** knowledge/training in contemporary programming languages such as Java, Python, JavaScript, HTML/CSS, .Net, Mobile iOS or Android and so on; basic understanding of relational database management systems; background in software development life cycle (SDLC) methodologies, especially Agile.  **The work environment involves** working in office as part of a technology team that codes, tests and deploys solutions. |
+      | Cyber Security Analyst| **Cyber Security Analysts** may address multiple cyber-related responsibilities, including detection and analysis of cyber-related suspicious security events, escalation of incidents for immediate response, containment, and recovery as well as providing technical support in the implementation of appropriate data security plans, procedures and products.  **Skills used on the job include** experience detecting and analyzing security events and/or responding to security incidents and knowledge of common cyber security analysis tools and techniques.  **The work environment involves** working independently and collaboratively within a larger cyber team. |
+
+    questions_and_answers:
+      - question: What is a responsibility of the Software engineer?
+        answer: Software Engineers design, develop and implement technology applications, platforms and systems to support customers, clients and bank employees around the world.
+      - question: What kind of skills should a software engineer have?
+        answer: Software engineers should have skills in programming languages such as Java, Python, JavaScript, HTML/CSS, .Net, Mobile iOS or Android and so on; basic understanding of relational database management systems
+      - question: What kind of emotional wellness support does Bank of America provide?
+        answer: Bank of America provides emotional wellness support through the Employee Assistance Program, Life Event Services, Thrive Global, parental leave, paid time off, and a sabbatical program.
+      - question: What are the responsbilities of a Cyber Security Analyst?
+        answer: Cyber Security Analysts may address multiple cyber-related responsibilities, including detection and analysis of cyber-related suspicious security events, escalation of incidents for immediate response, containment, and recovery as well as providing technical support in the implementation of appropriate data security plans, procedures and products.
 document_outline: |
   Introduction to the financial services industry and the business of banking
 document:

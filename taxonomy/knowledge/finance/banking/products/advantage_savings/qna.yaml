@@ -70,6 +70,49 @@ seed_examples:
           Can I be charged a fee by a merchant or third party if my transaction is declined due to insufficient funds?
         answer: |
           Yes, a merchant or third party could charge you a fee, such as a late fee, if your payment is not received on time due to insufficient funds.
+  - context: |
+      ## Additional Services
+
+      | Service | Fee | Description |
+      |---------|-----|-------------|
+      | Bank of America ATMs | No ATM fee | For deposits, withdrawals, transfers or balance inquiries |
+      | Non-Bank of America ATMs | $2.50 | In the U.S., plus any fee charged by the ATM's operator |
+      | | $5.00 | Outside the U.S., plus any fee charged by the ATM's operator |
+      | Statement copies | No fee | Paper copies available upon request. Printable statements are available in Online Banking. |
+      | Stop payment fee | $30.00 | For each request; WAIVED for requests on Bill Pay transactions |
+      | Cashier's checks | $15.00 | For each check |
+    questions_and_answers:
+      - question: |
+          Are there any ATM fees for withdrawls from a Bank of America ATM for the Advantage Savings account?
+        answer: |
+          No, there are no ATM fees for withdrawls from a Bank of America ATM for the Advantage Savings account?
+      - question: |
+          What are the ATM fees for a withdrawl from a Non-Bank of America ATM within the U.S.?
+        answer: |
+          There is a $2.50 fee for a withdrawl from a Non-Bank of America ATM within the U.S.
+      - question: |
+          What is the fee for a cashiers check for the Advantage Savings account?
+        answer: |
+          There is a $15 for a cashiers check from the Advantage Savings account
+  - context: |
+      ## Keep the Change savings program
+
+      Build your savings automatically when you enroll in our Keep the Change savings program. Simply make everyday purchases with your Bank of America debit card, and we'll round up your purchases to the nearest dollar amount and transfer the difference from your checking account to your savings account.
+
+      Please see the Personal Schedule of Fees and Deposit Agreement and Disclosures for your account terms, and information on how to link eligible accounts to avoid the Monthly Maintenance Fee.
+    questions_and_answers:
+      - question: |
+          What is the Keep the Change savings program?
+        answer: |
+          You can build your savings when you make everyday purchases, and we'll round up your purchases to the nearest dollar amount and transfer the difference from your checking account to your savings account
+      - question: |
+          Can I make purchases with my debit card to qualify for the Keep the Change savings program?
+        answer: |
+          Yes, debit card purchases can be rounded up for the Keep the Change savings program?
+      - question: |
+          Where do the savings from the Keep the Change savings program get deposited
+        answer: |
+          They are deposited to your savings account.
 document_outline: |
   Details of Bank of America Advantage Savings account policies and fees
 document:

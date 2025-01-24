@@ -88,13 +88,59 @@ seed_examples:
         answer: |
           There is no fee for a replacement card for Advantage SafeBalance Banking and SafeBalance for Family Banking accounts
       - question: |
-          What is the fee for an International wire transfer"
+          What is the fee for an International wire transfer?
         answer: |
           The fee for a Advantage SafeBalance Banking and SafeBalance for Family Banking wire transfer is $15
       - question: |
           Can SafeBalance for Family Banking accounts receive incoming wire transfers?
         answer: |
           No, SafeBalance for Family Banking accounts cannot receive incoming wire transfers
+  - context: |
+      Review all the features and benefits of your new account at bankofamerica.com/quickstart
+
+      For questions, schedule an appointment to visit a financial center at bankofamerica.com/appointments
+
+      Call us at 800.432.1000
+
+    questions_and_answers:
+      - question: |
+          Where can I view all the features and benefits of a Bank of America Advantage SafeBalance account?
+        answer: |
+          Information on features and benefits of your our accounts can be found at bankofamerica.com/quickstart
+      - question: |
+          How can I schedule an appointment to visit a Bank of America financial center?
+        answer: |
+          You can schedule an appointment to visit a financial center at bankofamerica.com/appointments
+      - question: |
+          What is the phone number to call Bank of America?
+        answer: |
+          The phone number to call Bank of America is 800.432.1000
+  - context: |
+      ## Ways to make payments
+
+      Some payment options are unavailable for the owner and child of a SafeBalance ® for Family Banking account.
+
+      Pay individuals and businesses using:
+
+      - · Your Debit Card: Make purchases and payments at millions of locations.
+      - · Online and Mobile Bill Pay: Pay your bills through Bank of America's Online Banking or Mobile Banking app. Mobile Banking requires that you download the Mobile Banking app and is only available for select mobile devices. Message and data rates may apply.
+      - · Online or Mobile Banking transfers: Securely send money to friends, family or coworkers.  Fees apply to wires and certain transfers. See the Online Banking Service Agreement at bankofamerica.com/serviceagreement for details.
+
+      NOTE: You can't write personal checks on this account. Any check you write will be returned unpaid, even if you have enough money in your account.
+
+    questions_and_answers:
+      - question: |
+          WWhat are the payment options for Bank of America Advantage SafeBalance accounts?
+        answer: |
+          Payments can be made using debit cards, online and mobile payments, and online or mobile transeers
+      - question: |
+          Can I write a personal chack on my Bank of America Advantage SafeBalance account?
+        answer: |
+          No, you cannot write personal checks for this account.
+      - question: |
+          Does mobile banking require a mobile app?
+        answer: |
+          Yes, you need the mobile banking app for mobile banking transactions
 document_outline: |
   Details of Bank of America Advantage SafeBalance Banking and SafeBalance for Family Banking
 document:

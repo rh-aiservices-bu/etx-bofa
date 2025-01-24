@@ -130,7 +130,6 @@ seed_examples:
           When Mobile Check Deposit  will be available ?
         answer: |
           Usually Mobile Check Deposit will be available in the next business day if deposited by applicable cutoff times. Please refer to Deposit Checks , then Help in the Mobile Banking app for additional details and terms and conditions.
-
   - context: |
       ## Get the most out of your account
 
@@ -156,6 +155,29 @@ seed_examples:
           Is there a specific number that I can call for help?
         answer: |
           Yes, you can call us any time at 800.432.1000.
+      - question: |
+          Is there a website to review features and benefits of an account?
+        answer: |
+          Yes, it's bankofamerica.com/quickstart
+      - question: |
+          How do you schedule an appointment with Bank of America?
+        answer: |
+          You can schedule an appointment at bankofamerica.com/appointments
+  - context: |
+      For international wire transfers, other fees may also apply, including those charged by recipient's financial institution, foreign taxes, and other fees that are part of the wire transfer process. We profit from markups associated with the currency conversion included in our exchange rate (determined solely by us). Before sending in foreign currency, you should consider factors that impact the total cost or the amount available after transfer.
+    questions_and_answers:
+      - question: |
+          Are there any other fees for international wire transfers?
+        answer: |
+          Yes other fees may apply for example, those charged by recipient's financial institution
+      - question: |
+          Do foreign taxes apply to international wire transfers?
+        answer: |
+          Yes, they may do. For international wire transfers, other fees may also apply, including those charged by recipient's financial institution, foreign taxes, and other fees that are part of the wire transfer process
+      - question: |
+          Is there anything else to consider before sending an international wire transfer?
+        answer: |
+          Before sending in foreign currency, you should consider factors that impact the total cost or the amount available after transfer
 document_outline: |
   Details of Bank of America customer Interest Checking.
 document:

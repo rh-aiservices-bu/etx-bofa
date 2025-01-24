@@ -74,8 +74,67 @@ seed_examples:
         answer: |
           Bank of America Customer services are available 365 days a year and 24 hours a day, except during system maintenance and upgrades. When this occurs, a message will be displayed on-line when users sign on to use the Services. The Call Centers are available Monday through Friday from 7:00 a.m. to 10:00 p.m., and Saturday and Sunday from 8:00 a.m. to 5:00 p.m. local time, excluding bank holidays, and may be reached through email, phone or website. Users can also write to them.
           The address is Bank of America, FL1-300-02-07, P.O. Box 25118, Tampa, FL 33622-5118
-document_outline: |
-  Resource guide for Bank of America employee policies.
+  - context: |
+      | Product        |   Short Code | Toll Free Number   |
+      |----------------|--------------|--------------------|
+      | Credit card    |       322632 | 844.585.0488       |
+      | ATM/debit card |        39989 | 844.585.0485       |
+      | Mobile Wallet  |        47518 | 855.262.0541       |
+
+      | Digital fingerprint                          |   55983 | 866.500.6260   |
+      |----------------------------------------------|---------|----------------|
+      | Account takeover                             |   56433 | 866.376.7091   |
+      | Zelle , Wires, ACH and Bill Pay ®            |   80814 | 866.376.4584   |
+      | Rewards redemption                           |   82096 | 844.585.0488   |
+      | Account opening                              |   82958 | 866.258.4982   |
+      | ACH/balance transfer                         |   85382 | 866.222.4145   |
+      | Checking and/or money market savings account |   86006 | 877.887.8935   |
+      | SMS on demand                                |   90208 | 800.432.1000   |
+      | Credit card application                      |   91207 | 888.230.6262   |
+      | Small Business credit card                   |   96264 | 800.427.2399   |
+    questions_and_answers:
+      - question: |
+          What is the Toll free number for Credit Card enquiries?
+        answer: |
+          The Toll Free Number for Credit Card enquiries is 844.585.0488
+      - question: |
+          What is the short code number for Mobile Wallet enquiries?
+        answer: |
+          The short code number for Mobile Wallet enquiries is 47518
+      - question: |
+          What is the Toll free number for Credit card application?
+        answer: |
+          The Toll free number for Credit card applications is 888.230.6262
+  - context: |
+      ## K. Limits
+
+      The following limits apply to Zelle  transfers. ® 1
+
+      |                  | Every 24 hours            | Every 7 days              | Every Month                |
+      |------------------|---------------------------|---------------------------|----------------------------|
+      | Consumer         | $3500 / 10 transactions   | $10,000 / 30 transactions | $20,000 / 60 transactions  |
+      | Small Business 2 | $15,000 / 20 transactions | $45,000 / 60 transactions | $60,000 / 120 transactions |
+
+      /Private Bank and Merrill Lynch Wealth Management clients may be subject to higher dollar limits and total transfers. Please contact your advisor for more information on your limits. 1
+
+      / Zelle  send limits are set at the customer profile (User ID) and apply to all accounts visible in the 'From' dropdown when initiating a Zelle payment.  If you are a small business customer and are not receiving the small business limits, make sure you are logged in with your small business User ID. 2 ® ®
+
+      The minimum transfer amount for any single Zelle  transfer is $1.00. There are no receiving limits for Zelle  transfers.
+    questions_and_answers:
+      - question: |
+          What is the dollar limit for consumer Zelle transactions in a 24 hour period?
+        answer: |
+          The limit is $3500 every 24 hours
+      - question: |
+          What is the limit on the number of Zelle transactions in a 7 day period for consumer transactions?
+        answer: |
+          The limit is 30 transactions every 7 days
+      - question: |
+          What is the receiving limit or Zelle transfers?
+        answer: |
+          There is no receiving limit for Zelle transfers
+
+document_outline: Resource guide for Bank of America employee policies.
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
   commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
