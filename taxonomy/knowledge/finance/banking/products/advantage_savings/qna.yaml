@@ -117,6 +117,6 @@ document_outline: |
   Details of Bank of America Advantage Savings account policies and fees
 document:
   repo: https://github.com/rh-aiservices-bu/etx-bofa.git
-  commit: dc7857904fdeb1b5df54979d28dd809d03b711a6
+  commit: 42e33a5739c78d1d464454142d33c03732611124
   patterns:
     - "/source_docs/advantage_savings/*.md"
