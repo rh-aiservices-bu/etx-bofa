@@ -2,32 +2,27 @@ Bank of America Advantage Savings
 
 Clarity Statement ® - Overview of key policies and fees
 
-Your Bank of America Advantage Savings Account
+## Your Bank of America Advantage Savings Account
 
-FDIC Coverage: This account is insured by the Federal Deposit Insurance Corporation (FDIC) and is backed by the U.S. government. The standard insurance amount is $250,000 per depositor, per insured bank, for each account ownership category.
+| | |
+|-----|------|
+|FDIC Coverage: | This account is insured by the Federal Deposit Insurance Corporation (FDIC) and is backed by the U.S. government. The standard insurance amount is $250,000 per depositor, per insured bank, for each account ownership category. |
 
-## Monthly Maintenance Fee: $8.00 each month
 
-(We'll waive this fee for the first 6 months.)
-
-You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle:
-
-- Maintain a minimum daily balance of $500 or more in your account, OR
-- Ask us to link your account to your Bank of America Advantage Relationship Banking ® , Bank of America Advantage ® with Tiered Interest Checking or Bank of America Advantage ® Regular Checking account (first 4 savings accounts), OR
-- An owner of this account is under the age of 25 (fiduciary accounts don't qualify), OR
-- Be a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards, or visit your local financial center.
+| | | | 
+|-----|------|-----|
+| Monthly Maintenance Fee: (We'll waive this fee for the first 6 months.) | $8.00 each month | You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR Ask us to link your account to your Bank of America Advantage Relationship Banking ® , Bank of America Advantage ® with Tiered Interest Checking or Bank of America Advantage ® Regular Checking account (first 4 savings accounts), OR An owner of this account is under the age of 25 (fiduciary accounts don't qualify), OR Be a member of the Preferred Rewards program. Learn more at bankofamerica.com/preferred-rewards, or visit your local financial center. |
 
 ## Interest rate policy
 
-Interest rate and interest calculation: Your account has a variable interest rate, which means the interest rate may change. Interest rates for your account are based on balance tiers, are set at our discretion and may change at any time without notice.
+| | |
+|-----|------|
+Interest rate and interest calculation:  | Your account has a variable interest rate, which means the interest rate may change. Interest rates for your account are based on balance tiers, are set at our discretion and may change at any time without notice. | 
+| |  To calculate interest, we apply a daily periodic rate to the collected balance in your account each day. The daily rate that applies will depend on which balance tier your end-of-day balance falls in. We compound and pay any interest earned monthly. Interest is only paid in whole cents and we use standard rounding rules to calculate the amount. This means that an amount less than half of one cent is rounded down to zero, and an amount of half of one cent or more is rounded up to the next whole cent. |
+| Extra interest: | Extra interest is earned automatically when an account owner is enrolled in the Preferred Rewards program. The interest rate will increase by at least 5%, 10% or 20% over the standard rate, and is based on the Preferred Rewards tier in which you're enrolled. We may decide to pay a higher rate. |
+|Where can I find information about current interest rates?: | You can find current rate information by checking bankofamerica.com, calling the number on your account statement or visiting a financial center. |
 
-To calculate interest, we apply a daily periodic rate to the collected balance in your account each day. The daily rate that applies will depend on which balance tier your end-of-day balance falls in. We compound and pay any interest earned monthly. Interest is only paid in whole cents and we use standard rounding rules to calculate the amount. This means that an amount less than half of one cent is rounded down to zero, and an amount of half of one cent or more is rounded up to the next whole cent.
-
-Extra interest: Extra interest is earned automatically when an account owner is enrolled in the Preferred Rewards program. The interest rate will increase by at least 5%, 10% or 20% over the standard rate, and is based on the Preferred Rewards tier in which you're enrolled. We may decide to pay a higher rate.
-
-Where can I find information about current interest rates?: You can find current rate information by checking bankofamerica.com, calling the number on your account statement or visiting a financial center.
-
-##When your deposits are available
+## When your deposits are available
 
 Cash, direct deposits, wire transfers: On the day we receive them.
 
